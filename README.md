@@ -38,4 +38,4 @@ Jika ada pertanyaan atau saran, silakan tinggalkan komentar atau hubungi melalui
 ---
 
 🔥 **Profile Kota Bandung** adalah proyek latihan yang menunjukkan keindahan kota ini dalam tampilan web sederhana. Jangan lupa **⭐️ Star** repository ini jika menurutmu bermanfaat! 😃
-```
+
